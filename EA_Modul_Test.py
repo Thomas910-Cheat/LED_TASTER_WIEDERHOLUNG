@@ -1,3 +1,4 @@
+#Added master2
 import RPi.GPIO as GPIO
 import time
 
@@ -55,4 +56,3 @@ if __name__ == "__main__":
 #You need to put the Button in to the order how it is said at the top of the code.
 # Taster = Button
 # led = LED
-#randomzeile
